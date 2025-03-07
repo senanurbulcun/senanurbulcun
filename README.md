@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @senabulcun
-- 👀 I’m interested in statistics and data science
-- 🌱 I’m currently learning Statistics at Yıldız Technical University
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me is senabulcun@gmail.com
+# 👋 Hi, I'm Kadriye Senanur Bulcun!  
 
-<!---
-senabulcun/senabulcun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 **Statistics Student at Yıldız Technical University (YTÜ)**  
+📊 Passionate about **Data Science, Machine Learning, and Statistical Analysis**  
+💡 Skilled in **Python, R, SQL, and Data Visualization**  
+
+## 💻 Tech Stack  
+- **Programming:** Python (pandas, NumPy, scikit-learn, matplotlib, seaborn), R, SQL (MySQL)  
+- **Data Analysis & Visualization:** Excel VBA 
+- **Machine Learning:** Regression, Classification, Decision Trees
+
+- ## 🚀 Projects  
+🔹 **[Norm Holding Purchase Data Analysis]
+
+## 📫 Let's Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin)](https://linkedin.com/in/senanurbulcun)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/senabulcun)  
