@@ -6,7 +6,7 @@
 
 ## 💻 Tech Stack  
 - **Programming:** Python (pandas, NumPy, scikit-learn, matplotlib, seaborn), R, SQL (MySQL)  
-- **Data Analysis & Visualization:** Excel VBA 
+- **Data Analysis & Visualization:**SPSS, Excel VBA 
 - **Machine Learning:** Regression, Classification, Decision Trees
 
 - ## 🚀 Projects  
