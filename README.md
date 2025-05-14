@@ -10,7 +10,7 @@
 - **Machine Learning:** Regression, Classification, Decision Trees
 
 - ## 🚀 Projects  
-🔹 **[Norm Holding Purchase Data Analysis]
+🔹 **[Norm Holding Purchase Data Analysis] [https://www.canva.com/design/DAGQZadND5w/gXns0nDSL5AhMGRKeFEYNQ/edit?utm_content=DAGQZadND5w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
 
 ## 📫 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin)](https://linkedin.com/in/senanurbulcun)  
