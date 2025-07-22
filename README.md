@@ -10,6 +10,8 @@
 - **Machine Learning:** Regression, Classification, Decision Trees
 
 - ## 🚀 Projects
+🔹 Credit Risk Prediction Model Machine Learning Project - Developing a credit risk prediction model using machine learning in a fintech environment, with responsibilities including data preprocessing, model construction, and supporting data-driven decision-making.
+
 🔹 **[Norm Holding Purchase Data Analysis] [https://www.canva.com/design/DAGQZadND5w/gXns0nDSL5AhMGRKeFEYNQ/edit?utm_content=DAGQZadND5w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
 
 ## 📫 Let's Connect!  
