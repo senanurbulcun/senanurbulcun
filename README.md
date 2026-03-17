@@ -1,4 +1,4 @@
-# Selam, ben Sena Nur! 👋
+# Selam, ben Senanur! 👋
 
 ### 📊 Veri Bilimi & İstatistik Tutkunu
 
