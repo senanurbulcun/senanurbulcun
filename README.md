@@ -1,21 +1,27 @@
-# 👋 Hi, I'm Kadriye Senanur Bulcun!  
+# Selam, ben Sena Nur! 👋
 
-🎓 **Statistics Student at Yıldız Technical University (YTÜ)**  
-📊 Passionate about **Data Science, Machine Learning, and Statistical Analysis**  
-💡 Skilled in **Python, R, SQL, and Data Visualization**  
+### 📊 Veri Bilimi & İstatistik Tutkunu
 
-## 💻 Tech Stack  
-- **Programming:** Python (pandas, NumPy, scikit-learn, matplotlib, seaborn), R, SQL (MySQL)  
-- **Data Analysis & Visualization:**SPSS, Excel VBA 
-- **Machine Learning:** Regression, Classification, Decision Trees
+Veriden anlamlı içgörüler çıkarmayı, makine öğrenmesi modelleri kurmayı ve istatistiksel analizler yapmayı seviyorum. Şu anda veri analitiği ve finansal raporlama alanlarında kendimi geliştirirken, bir yandan da güncel yapay zeka teknolojilerini projelerime entegre ediyorum.
 
-- ## 🚀 Projects
-🔹 Credit Risk Prediction Model Machine Learning Project - Developing a credit risk prediction model using machine learning in a fintech environment, with responsibilities including data preprocessing, model construction, and supporting data-driven decision-making.
+- 🎓 **Eğitim:** Yıldız Teknik Üniversitesi - İstatistik
+- 💼 **Deneyim:** Bütçe ve Finansal Raporlama / Sigorta Sektörü
+- 🛠️ **Araç Kutum:** R, Python (Pandas, Scikit-learn), SQL, Excel, Git
+- 🚀 **Odak Alanlarım:** Müşteri Kayıp Analizi (Churn), Zaman Serileri, Veri Görselleştirme
 
-🔹 **[Norm Holding Purchase Data Analysis] [https://www.canva.com/design/DAGQZadND5w/gXns0nDSL5AhMGRKeFEYNQ/edit?utm_content=DAGQZadND5w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
+---
 
-## 📫 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin)](https://linkedin.com/in/senanurbulcun)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/senabulcun)  
+### 📂 Öne Çıkan Projelerim
+- [**Customer Churn Prediction**](https://github.com/senanurbulcun/customer-churn-prediction) - Makine öğrenmesi kullanarak müşteri kaybını tahminleyen uçtan uca bir analiz projesi.
 
-📄 **My CV:** [Click here to view my CV] (https://www.canva.com/design/DAGt5RkydZY/T4_m2cjXwx-SMZ_p-AbpuQ/edit?utm_content=DAGt5RkydZY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+---
+
+### 📫 Bana Ulaşın:
+- [LinkedIn](https://www.linkedin.com/in/senanurbulcun)
+- [E-posta](mailto:senabulcun@gmail.com@gmail.com)
+
+---
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=senanurbulcun&show_icons=true&theme=radical" alt="Sena's GitHub Stats" />
+</p>
